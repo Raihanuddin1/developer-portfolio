@@ -72,7 +72,22 @@ nav li {
         margin-bottom: 30px;
     }
 
-   .about{
-    background-color: #FD6E0A;
-    font-size: large;
-   }
+    /* main section
+
+    main{
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+
+    /* about section styles */
+
+    .about {
+        margin-top: 130px;
+        background: #FFF8F3;
+        border-radius: 10px;
+        padding: 130px 150px;
+    }
+
+    .section-title {}
+
+    .section-descripton {} */
