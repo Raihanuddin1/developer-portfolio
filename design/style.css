@@ -134,11 +134,15 @@
 .contact .section-title{
     text-align: left;
 }
-.contact input[type="text"], input[type="email"] textarea{
+.contact input[type="text"], input[type="email"]{
     margin-bottom: 24px;
     border: 0;
     height: 64px;
     width: 100%;
+}
+.contact textarea{
+    width: 100%;
+    border: 0;
 }
 input{
     padding: 18px 30px;
