@@ -27,6 +27,17 @@
     padding: 18px 36px;
 }
 
+.btn-contact {
+    background-color: #FFF8F3;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FD6E0A;
+    height: 64px;
+    width: 160px;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
